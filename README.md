@@ -1,7 +1,5 @@
 # LAB_3
 
-Instalación de las dependencias
-
 Estando ubicado dentro de la carpeta de la carpeta load_obj se deben ejecutar los siguientes comandos:
 
 ```
