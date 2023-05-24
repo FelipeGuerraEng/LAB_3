@@ -19,7 +19,7 @@ controls.enableZoom = true;
 renderer.setClearColor(new THREE.Color('skyblue'));
 var keyLight = new THREE.DirectionalLight(
   new THREE.Color('hsl(30, 100%, 75%)'),
-  10.0
+  1.0
 );
 //keyLight.position.set(-100, 0, 100);
 keyLight.position.set(-10, 10, 10);
