@@ -41,7 +41,7 @@ var light = new THREE.AmbientLight(0x404040);
 scene.add(light);
 
 //scene.background = new THREE.Color( 0xffffff );
-renderer.setClearColor(new THREE.Color('skyblue'));
+renderer.setClearColor(new THREE.Color('#394B2A'));
 scene.add(keyLight);
 scene.add(fillLight);
 scene.add(backLight);
